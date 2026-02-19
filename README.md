@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**kimshix0x0/kimshix0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on: Improving my SQL, Excel, and Power BI skills while building small data analysis projects.<br>👯 I’m looking to collaborate on: Beginner-friendly data analysis or dashboard projects.<br>🤝 I’m looking for help with: Advanced SQL queries, DAX in Power BI, and real-world project guidance.<br>🌱 I’m currently learning: Python (Pandas & NumPy), Data Cleaning techniques, and basic Machine Learning concepts.<br>💬 Ask me about: Excel, SQL basics, Power BI dashboards, and beginner Java.<br>⚡ Fun fact: I enjoy turning raw data into simple, meaningful insights.
 
